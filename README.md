@@ -1,5 +1,5 @@
 # DELINE
-A simple Commandline tool to remove newlines from files
+Simple commandline tool to remove newlines from files
 
 ## Usage:
 > `deline [FILE]`
@@ -20,7 +20,7 @@ Currently only installs on linux
 
 3. `sudo make install`
 
-4. [Use deline](#installation)
+4. [Use deline](#usage)
 
 ## TODO
 
