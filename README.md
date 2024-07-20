@@ -1,5 +1,6 @@
 # DELINE
-Simple commandline tool to remove newlines from files
+
+Simple commandline tool to remove newlines from files : equivalent to `sed 's/\n// FILE` 
 
 ## Usage:
 > `deline [FILE]`
